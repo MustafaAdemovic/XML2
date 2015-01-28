@@ -1,0 +1,15 @@
+<?xml version ="1.0" ?>
+<people>
+ <person name = 'Mustafa' lastName = 'Ademovic' >
+  <child name = 'Mujo' lastName = 'Ademovic' />
+</person>
+ <person name = 'Vedad' lastName = 'Zornic' >
+  <child name = 'Haso' lastName = 'Zornic' />
+</person>
+ <person name = 'Emir' lastName = 'Imamovic' >
+  <child name = 'Emir' lastName = 'Imamovic' />
+</person>
+ <person name = 'Gordan' lastName = 'Sajevic' >
+  <child name = 'Goro' lastName = 'Sajevic' />
+</person>
+</people>
